@@ -14,7 +14,7 @@ To learn hidden patterns from historical loan application data and provide
 accurate, fast, and unbiased loan approval decisions.
 
 ## Dataset
-Dataset used from Kaggle — [Download Here](https://www.kaggle.com/datasets/dronabopche/customerdemograph-and-cart-data)
+Dataset used from Kaggle — [Download Here](https://www.kaggle.com/code/sakshivishwakarma25/creditwise-loan-approved)
 
 ## Tech Stack
 - Python
